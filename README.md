@@ -3,6 +3,13 @@
 This project is an end-to-end Machine Learning application that classifies movie reviews as **Positive** or **Negative** using a Deep Learning model built with SimpleRNN.
 
 ---
+📸 Preview
+<p align="center">
+  <img src="positive_review.png" width="500" style="margin-right: 40px;"/>
+  
+  <img src="negative_review.png" width="500"/>
+</p>
+
 
 ## 🚀 Features
 
